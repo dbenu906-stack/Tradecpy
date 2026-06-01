@@ -22,5 +22,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T12:03:41.896Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780315494524_kalba7",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "GBPUSD",
+    "type": "SELL",
+    "lot": 0.09,
+    "masterLot": 0.09,
+    "status": "Open",
+    "timestamp": "2026-06-01T12:04:54.524Z",
+    "profit": 0
   }
 ]
