@@ -406,5 +406,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T14:36:01.199Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780324755734_tmcksq",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.07,
+    "masterLot": 0.07,
+    "status": "Open",
+    "timestamp": "2026-06-01T14:39:15.734Z",
+    "profit": 0
   }
 ]
