@@ -634,5 +634,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T19:24:52.325Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780341956463_s40n61",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open",
+    "timestamp": "2026-06-01T19:25:56.463Z",
+    "profit": 0
   }
 ]
