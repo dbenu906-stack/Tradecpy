@@ -526,5 +526,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T18:29:44.195Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780338771194_awd51q",
+    "account": "10866918",
+    "masterAccNum": "10866918",
+    "symbol": "XAUUSD",
+    "type": "BUY",
+    "lot": 0.08,
+    "masterLot": 0.08,
+    "status": "Open",
+    "timestamp": "2026-06-01T18:32:51.194Z",
+    "profit": 0
   }
 ]
