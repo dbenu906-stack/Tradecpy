@@ -598,5 +598,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T19:15:59.137Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780341450546_z4yxtz",
+    "account": "10866918",
+    "masterAccNum": "10866918",
+    "symbol": "USDJPY",
+    "type": "BUY",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open",
+    "timestamp": "2026-06-01T19:17:30.546Z",
+    "profit": 0
   }
 ]
