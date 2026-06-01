@@ -430,5 +430,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T14:41:18.194Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780324917517_vvepd9",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "GBPUSD",
+    "type": "BUY",
+    "lot": 0.18,
+    "masterLot": 0.18,
+    "status": "Open",
+    "timestamp": "2026-06-01T14:41:57.517Z",
+    "profit": 0
   }
 ]
