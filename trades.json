@@ -394,5 +394,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T14:34:33.765Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780324561199_zntjpf",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "GBPUSD",
+    "type": "SELL",
+    "lot": 0.07,
+    "masterLot": 0.07,
+    "status": "Open",
+    "timestamp": "2026-06-01T14:36:01.199Z",
+    "profit": 0
   }
 ]
