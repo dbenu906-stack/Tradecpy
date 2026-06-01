@@ -622,5 +622,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T19:18:32.080Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780341892325_pjj7hs",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "EURUSD",
+    "type": "BUY",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open",
+    "timestamp": "2026-06-01T19:24:52.325Z",
+    "profit": 0
   }
 ]
