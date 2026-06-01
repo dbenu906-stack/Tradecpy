@@ -418,5 +418,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T14:39:15.734Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780324878194_dkwikl",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "GBPUSD",
+    "type": "BUY",
+    "lot": 0.13,
+    "masterLot": 0.13,
+    "status": "Open",
+    "timestamp": "2026-06-01T14:41:18.194Z",
+    "profit": 0
   }
 ]
