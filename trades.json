@@ -658,5 +658,17 @@
     "status": "Open",
     "timestamp": "2026-06-01T19:31:36.123Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780342530110_cwsyva",
+    "account": "25449826",
+    "masterAccNum": "25449826",
+    "symbol": "XAUUSD",
+    "type": "BUY",
+    "lot": 0.1,
+    "masterLot": 0.1,
+    "status": "Open",
+    "timestamp": "2026-06-01T19:35:30.110Z",
+    "profit": 0
   }
 ]
