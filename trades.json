@@ -850,5 +850,17 @@
     "status": "Open",
     "timestamp": "2026-06-02T09:07:49.264Z",
     "profit": 0
+  },
+  {
+    "id": "signal_1780391513520_gorkle",
+    "account": "25449835",
+    "masterAccNum": "25449835",
+    "symbol": "GBPUSD",
+    "type": "BUY",
+    "lot": 0.03,
+    "masterLot": 0.03,
+    "status": "Open",
+    "timestamp": "2026-06-02T09:11:53.520Z",
+    "profit": 0
   }
 ]
