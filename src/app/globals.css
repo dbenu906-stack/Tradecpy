@@ -1,0 +1,68 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 214 22% 10%;
+    --foreground: 0 0% 98%;
+    --card: 214 22% 12%;
+    --card-foreground: 0 0% 98%;
+    --popover: 214 22% 10%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 213 91% 50%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 214 22% 18%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 214 22% 18%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 191 96% 63%;
+    --accent-foreground: 214 22% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 214 22% 20%;
+    --input: 214 22% 20%;
+    --ring: 213 91% 50%;
+    --radius: 0.75rem;
+
+    --chart-1: 213 91% 50%;
+    --chart-2: 191 96% 63%;
+    --chart-3: 160 60% 45%;
+    --chart-4: 30 80% 55%;
+    --chart-5: 340 75% 55%;
+
+    --sidebar-background: 214 22% 8%;
+    --sidebar-foreground: 215 20% 65%;
+    --sidebar-primary: 213 91% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 214 22% 15%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 214 22% 15%;
+    --sidebar-ring: 213 91% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline tracking-tight;
+  }
+}
+
+.glow-primary {
+  box-shadow: 0 0 20px -5px hsl(var(--primary) / 0.5);
+}
+
+.glow-accent {
+  box-shadow: 0 0 20px -5px hsl(var(--accent) / 0.5);
+}
+
+.font-code {
+  font-family: 'Source Code Pro', monospace;
+}

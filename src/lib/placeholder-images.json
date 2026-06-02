@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "trading-dashboard",
+      "description": "A high-tech trading dashboard with candles and charts.",
+      "imageUrl": "https://picsum.photos/seed/trading1/1200/800",
+      "imageHint": "trading charts"
+    },
+    {
+      "id": "mt5-terminal",
+      "description": "Modern financial terminal interface.",
+      "imageUrl": "https://picsum.photos/seed/trading2/600/400",
+      "imageHint": "finance technology"
+    }
+  ]
+}

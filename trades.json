@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "signal_1780315400195_ogorkw",
     "account": "25449835",
     "masterAccNum": "25449835",
@@ -912,3 +913,15 @@
     "profit": 0
   }
 ]
+=======
+    "id": "sample-signal-1",
+    "account": "10866918",
+    "symbol": "EURUSD",
+    "action": "BUY",
+    "volume": "0.01",
+    "status": "Open",
+    "stop_loss": "1.0950",
+    "take_profit": "1.1050"
+  }
+]
+>>>>>>> 61d6fdc (Updated project)
